@@ -11,6 +11,8 @@ public class ballClass : MonoBehaviour
     public float maxSpeed;
     public GameObject theBallObject;
 
+    //Test
+
     public void startFunction()
     {
         theBallObject = GameObject.Find("CirclePre(Clone)");
